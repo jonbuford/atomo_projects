@@ -1,0 +1,1187 @@
+Archive member included because of file (symbol)
+
+c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-exit.o)
+                              c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-impure.o)
+                              c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-exit.o) (_global_impure_ptr)
+c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-init.o)
+                              c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memset.o)
+                              c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+                              c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-exit.o) (_exit)
+c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memcpy-stub.o)
+                              C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o (memcpy)
+c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-strlen.o)
+                              C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o (strlen)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crti.o
+ .bss           0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x4 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+ .data          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .text          0x00000000        0x0 ./utilities/fsl_debug_console.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .data.s_slowIrcFreq.4631
+                0x00000000        0x4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .data.s_fastIrcFreq.4632
+                0x00000000        0x4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .bss.g_xtal0Freq
+                0x00000000        0x4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .bss.g_xtal32Freq
+                0x00000000        0x4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.mcgModeMatrix.4643
+                0x00000000       0x40 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6530.4629
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6575.4633
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6583.4634
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.fllFactorTable.6658.4635
+                0x00000000       0x10 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6673.4638
+                0x00000000       0x14 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.trimRange.6765.4640
+                0x00000000       0x10 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.s_portBases.4945
+                0x00000000       0x14 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.s_gpioBases.4942
+                0x00000000       0x14 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6548.4943
+                0x00000000       0x14 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6554.4944
+                0x00000000       0x10 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6592.5048
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6597.5051
+                0x00000000       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6604.5054
+                0x00000000       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6620.5055
+                0x00000000        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6625.5056
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6630.5057
+                0x00000000       0x10 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6635.5058
+                0x00000000       0x10 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6641.5059
+                0x00000000       0x10 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6648.5060
+                0x00000000       0x10 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.s_uartBases.5413
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.s_uartIRQ.5429
+                0x00000000        0x8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.s_uartClock.5418
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6729.5414
+                0x00000000       0x14 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6733.5415
+                0x00000000       0x24 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6738.5416
+                0x00000000       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6745.5417
+                0x00000000        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6763.5419
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6769.5420
+                0x00000000       0x14 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6813.5421
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6823.5422
+                0x00000000       0x14 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6836.5423
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6847.5425
+                0x00000000       0x1c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6855.5430
+                0x00000000       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6860.5431
+                0x00000000       0x1c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6866.5432
+                0x00000000       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6872.5433
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6878.5434
+                0x00000000       0x1c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6885.5435
+                0x00000000       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6898.5436
+                0x00000000       0x1c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6904.5437
+                0x00000000       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.__func__.6909.5424
+                0x00000000       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.kFCCOBx.4283
+                0x00000000        0x4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.kFPROTL.4282
+                0x00000000        0x4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .bss.callFlashRunCommand.5731.4254
+                0x00000000        0x4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .bss.callFlashCommonBitOperation.5732.4249
+                0x00000000        0x4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.s_flashRunCommandFunctionCode.5730.4255
+                0x00000000        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.s_flashCommonBitOperationFunctionCode.5727.4250
+                0x00000000       0x1c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .bss.s_flashRunCommand.5740
+                0x00000000       0x40 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .bss.s_flashCommonBitOperation.5741
+                0x00000000       0x40 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .bss.s_flashExecuteInRamFunctionInfo.5734
+                0x00000000        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.kPFlashDensities
+                0x00000000       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.FLASH_PflashSetProtection.4182
+                0x00000000       0x40 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.FLASH_PflashGetProtection.4167
+                0x00000000       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.FLASH_PflashSetPrefetchSpeculation
+                0x00000000       0x90 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.FLASH_PflashGetPrefetchSpeculation.4154
+                0x00000000       0x60 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.copy_flash_run_command.5540
+                0x00000000       0x2c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.flash_command_sequence.5555
+                0x00000000       0x6c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.copy_flash_common_bit_operation.5543
+                0x00000000       0x2c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.flash_cache_clear
+                0x00000000       0x4c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.flash_check_execute_in_ram_function_info.5549
+                0x00000000       0x3c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.flash_check_range.5588
+                0x00000000       0x64 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.flash_get_matched_operation_info.5602
+                0x00000000       0x6c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.flash_check_user_key.5644
+                0x00000000       0x28 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.flash_check_resource_range.5661
+                0x00000000       0xac C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.flash_check_swap_control_option.5676
+                0x00000000       0x3c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.flash_validate_swap_indicator_address.5696
+                0x00000000       0x48 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.flash_get_protection_info.5707
+                0x00000000       0x60 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.oscConfig_BOARD_BootClockRUN.4256
+                0x00000000        0x8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .rodata        0x00000000       0x28 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.UART_TransferAbortReceive.4277
+                0x00000000       0x6c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.UART_TransferGetReceiveCount.4272
+                0x00000000       0x78 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.UART_TransferHandleIRQ
+                0x00000000      0x414 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.UART_TransferHandleErrorIRQ.4205
+                0x00000000       0x14 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_Init.4177
+                0x00000000       0xc4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_SetCallback.4173
+                0x00000000       0x28 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_PrepareExecuteInRamFunctions.4170
+                0x00000000       0x3c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_EraseAll.4166
+                0x00000000       0x4c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_Erase.4160
+                0x00000000       0xd8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_EraseAllExecuteOnlySegments.4156
+                0x00000000       0x4c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_Program.4150
+                0x00000000       0xd4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_ProgramOnce.4144
+                0x00000000       0x60 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_ProgramSection.4138
+                0x00000000      0x154 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_ReadResource
+                0x00000000       0xd4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_ReadOnce.4123
+                0x00000000       0x60 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_GetSecurityState.4117
+                0x00000000       0x5c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_SecurityBypass.4111
+                0x00000000       0xa4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_VerifyEraseAll.4107
+                0x00000000       0x3c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_VerifyErase.4101
+                0x00000000       0xf0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_VerifyProgram.4090
+                0x00000000       0xc4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_VerifyEraseAllExecuteOnlySegments.4084
+                0x00000000       0x3c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_IsProtected.4076
+                0x00000000      0x244 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_IsExecuteOnly.4068
+                0x00000000       0x40 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_GetProperty.4061
+                0x00000000       0xcc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_SwapControl.4044
+                0x00000000       0xb8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.FLASH_Swap.4013
+                0x00000000      0x118 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .rodata        0x00000000      0x164 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.RTC_Init.4319
+                0x00000000       0xb0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.RTC_GetDefaultConfig.4309
+                0x00000000       0x4c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.RTC_SetDatetime.4305
+                0x00000000       0x58 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.RTC_GetDatetime.4301
+                0x00000000       0x44 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.RTC_SetAlarm.4297
+                0x00000000       0x74 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.RTC_GetAlarm.4285
+                0x00000000       0x44 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.RTC_ClearStatusFlags.4266
+                0x00000000       0x44 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.SMC_PreEnterStopModes.4264
+                0x00000000       0x2c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.SMC_PostExitStopModes.4262
+                0x00000000       0x24 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.SMC_SetPowerModeRun.4259
+                0x00000000       0x2c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.SMC_SetPowerModeWait.4256
+                0x00000000       0x30 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.SMC_SetPowerModeStop.4250
+                0x00000000       0x60 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.SMC_SetPowerModeVlpr.4246
+                0x00000000       0x50 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.SMC_SetPowerModeVlpw.4243
+                0x00000000       0x30 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.SMC_SetPowerModeVlps.4240
+                0x00000000       0x64 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.SMC_SetPowerModeLls.4237
+                0x00000000       0x64 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.SMC_SetPowerModeVlls.4220
+                0x00000000       0xb8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.NVIC_EnableIRQ.5171.4217
+                0x00000000       0x30 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.CLOCK_EnableClock.5177.4214
+                0x00000000       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.CLOCK_DisableClock.5182.4208
+                0x00000000       0x38 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.EnableIRQ.5185.4202
+                0x00000000       0x24 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_GetInstance.4199
+                0x00000000       0x5c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_TransferGetRxRingBufferLength.5232.4196
+                0x00000000       0x6c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_TransferIsRxRingBufferFull.5258
+                0x00000000       0x4c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_Init
+                0x00000000      0x2d8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_Deinit
+                0x00000000       0x44 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_GetDefaultConfig
+                0x00000000       0x5c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_SetBaudRate.4163
+                0x00000000      0x11c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_EnableInterrupts.4159
+                0x00000000       0x70 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_DisableInterrupts
+                0x00000000       0x80 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_GetEnabledInterrupts.4152
+                0x00000000       0x4c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_GetStatusFlags.4149
+                0x00000000       0x48 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_ClearStatusFlags.4145
+                0x00000000       0x8c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_WriteBlocking
+                0x00000000       0x3c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_WriteNonBlocking.5314
+                0x00000000       0x54 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_ReadBlocking
+                0x00000000       0xa0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_ReadNonBlocking.5324
+                0x00000000       0x54 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_TransferCreateHandle.4115
+                0x00000000       0x98 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_TransferStartRingBuffer.4109
+                0x00000000       0x88 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_TransferStopRingBuffer.4105
+                0x00000000       0x78 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_TransferSendNonBlocking.4100
+                0x00000000       0xc4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_TransferAbortSend.4096
+                0x00000000       0x48 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_TransferGetSendCount.4089
+                0x00000000       0x6c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text.UART_TransferReceiveNonBlocking.4013
+                0x00000000      0x1d8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .debug_info    0x00000000     0x1b91 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .debug_abbrev  0x00000000      0x34c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .debug_aranges
+                0x00000000      0x178 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .debug_ranges  0x00000000      0x168 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .debug_line    0x00000000      0x6f9 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .debug_str     0x00000000     0x1686 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .ARM.attributes
+                0x00000000       0x37 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .debug_frame   0x00000000      0x54c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_GetOutClkFreq
+                0x00000000       0x64 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_GetFllFreq
+                0x00000000       0x74 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_GetInternalRefClkFreq
+                0x00000000       0x24 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_GetFixedFreqClkFreq
+                0x00000000       0x30 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_GetPll0Freq
+                0x00000000       0x78 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetInternalRefClkConfig.4265
+                0x00000000      0x100 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_CalcPllDiv.4259
+                0x00000000      0x16c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetOsc0MonitorMode.4253
+                0x00000000       0x78 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetRtcOscMonitorMode.4250
+                0x00000000       0x48 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetPll0MonitorMode.4245
+                0x00000000       0x74 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_GetStatusFlags.4243
+                0x00000000       0x84 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_ClearStatusFlags.4240
+                0x00000000       0x58 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_InitOsc0.4226
+                0x00000000       0x88 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_DeinitOsc0.4224
+                0x00000000       0x2c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_TrimInternalRefClk.4216
+                0x00000000      0x138 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_GetMode.4214
+                0x00000000       0xb8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetFeiMode.4209
+                0x00000000       0xc0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetFeeMode.4203
+                0x00000000       0xdc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetFbiMode.4198
+                0x00000000       0xd0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetFbeMode.4192
+                0x00000000       0xfc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetBlpiMode.4190
+                0x00000000       0x24 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetBlpeMode.4188
+                0x00000000       0x24 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetPeeMode.4182
+                0x00000000       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_ExternalModeToFbeModeQuick.4180
+                0x00000000       0x68 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_InternalModeToFbiModeQuick.4178
+                0x00000000       0x4c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_BootToFeiMode.4173
+                0x00000000       0x28 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_BootToFeeMode.4166
+                0x00000000       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_BootToBlpiMode.4161
+                0x00000000       0x68 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_BootToBlpeMode.4158
+                0x00000000       0x54 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetMcgConfig.4117
+                0x00000000      0x1f8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.InstallIRQHandler.4103
+                0x00000000       0x74 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.GPIO_WritePinOutput.4901.4098
+                0x00000000       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.GPIO_GetInstance.4919.4095
+                0x00000000       0x54 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.GPIO_PinInit.4084
+                0x00000000       0x70 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.GPIO_GetPinsInterruptFlags.4081
+                0x00000000       0x30 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.GPIO_ClearPinsInterruptFlags.4067
+                0x00000000       0x30 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_EnableClock.4959
+                0x00000000       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.RTC_GetStatusFlags.4965
+                0x00000000       0x1c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.RTC_Reset.4985
+                0x00000000       0x30 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.RTC_CheckDatetimeFormat.4988
+                0x00000000       0xf8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.RTC_ConvertDatetimeToSeconds.5002
+                0x00000000       0xec C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.RTC_ConvertSecondsToDatetime.5005
+                0x00000000      0x168 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_EnableClock.4381.4095
+                0x00000000       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_DisableClock.4387.4090
+                0x00000000       0x38 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.OSC_SetExtRefClkConfig.4398
+                0x00000000       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.OSC_SetCapLoad.4410
+                0x00000000       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .rodata        0x00000000       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetMcgExtClkFreq.4416
+                0x00000000       0x8c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetFllExtRefClkFreq.4418.4066
+                0x00000000       0xc8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetInternalRefClkSelectFreq.4420
+                0x00000000       0x44 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetFllRefClkFreq.4422
+                0x00000000       0x2c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetPll0RefFreq.4424
+                0x00000000       0x10 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetOscRangeFromFreq.4426
+                0x00000000       0x3c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_FllStableDelay.4414
+                0x00000000       0x24 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetOsc0ErClkFreq.4053
+                0x00000000       0x48 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetEr32kClkFreq.4051
+                0x00000000       0x7c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetPllFllSelClkFreq.4049
+                0x00000000       0x50 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetPlatClkFreq.4047
+                0x00000000       0x24 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetFlashClkFreq.4045
+                0x00000000       0x28 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetFlexBusClkFreq.4043
+                0x00000000       0x28 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetBusClkFreq.4041
+                0x00000000       0x28 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetCoreSysClkFreq.4039
+                0x00000000       0x24 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_GetFreq.4034
+                0x00000000      0x140 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_EnableUsbfs0Clock.4013
+                0x00000000      0x100 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.UART_EnableTx.4013.4156
+                0x00000000       0x40 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.UART_EnableRx.4058.4152
+                0x00000000       0x40 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.DbgConsole_Init.4097
+                0x00000000       0x8c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.DbgConsole_Deinit.4094
+                0x00000000       0x48 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.DbgConsole_Scanf.4085
+                0x00000000       0xb4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.DbgConsole_Getchar.4083
+                0x00000000       0x38 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.DbgConsole_ScanIgnoreWhiteSpace.4083.4080
+                0x00000000       0x60 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.DbgConsole_ScanfFormattedData.4113.4049
+                0x00000000      0x628 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text._write.4044
+                0x00000000       0x58 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text._read.4038
+                0x00000000       0x44 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.SystemCoreClockUpdate.4034
+                0x00000000      0x264 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 ./startup/startup_MK64F12.o
+ .bss           0x00000000        0x0 ./startup/startup_MK64F12.o
+ .text          0x00000000        0x0 ./startup/system_MK64F12.o (symbol from plugin)
+ .text          0x00000000        0x0 ./source/drive_out.o (symbol from plugin)
+ .text          0x00000000        0x0 ./source/main.o (symbol from plugin)
+ .text          0x00000000        0x0 ./drivers/fsl_clock.o (symbol from plugin)
+ .text          0x00000000        0x0 ./drivers/fsl_common.o (symbol from plugin)
+ .text          0x00000000        0x0 ./drivers/fsl_gpio.o (symbol from plugin)
+ .text          0x00000000        0x0 ./drivers/fsl_rtc.o (symbol from plugin)
+ .text          0x00000000        0x0 ./drivers/fsl_smc.o (symbol from plugin)
+ .text          0x00000000        0x0 ./drivers/fsl_uart.o (symbol from plugin)
+ .text          0x00000000        0x0 ./driver/fsl_flash.o (symbol from plugin)
+ .text          0x00000000        0x0 ./board/board.o (symbol from plugin)
+ .text          0x00000000        0x0 ./board/clock_config.o (symbol from plugin)
+ .text          0x00000000        0x0 ./board/pin_mux.o (symbol from plugin)
+ .text          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtend.o
+ .data          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtend.o
+ .bss           0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtend.o
+ .eh_frame      0x00000000        0x4 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtend.o
+ .text          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtn.o
+ .data          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtn.o
+ .bss           0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x00000400         xr
+m_flash_config   0x00000400         0x00000010         xr
+m_text           0x00000410         0x000ffbf0         xr
+m_data           0x1fff0000         0x00010000         rw
+m_data_2         0x20000000         0x00030000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crti.o
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD ./utilities/fsl_debug_console.o
+LOAD C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+LOAD C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+LOAD C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans2.ltrans.o
+LOAD C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+LOAD C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+LOAD C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu\libgcc.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_s.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu\libgcc.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_s.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu\libgcc.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_s.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a
+LOAD ./startup/startup_MK64F12.o
+LOAD ./startup/system_MK64F12.o
+LOAD ./source/drive_out.o
+LOAD ./source/main.o
+LOAD ./drivers/fsl_clock.o
+LOAD ./drivers/fsl_common.o
+LOAD ./drivers/fsl_gpio.o
+LOAD ./drivers/fsl_rtc.o
+LOAD ./drivers/fsl_smc.o
+LOAD ./drivers/fsl_uart.o
+LOAD ./driver/fsl_flash.o
+LOAD ./board/board.o
+LOAD ./board/clock_config.o
+LOAD ./board/pin_mux.o
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libstdc++_s.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a
+START GROUP
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu\libgcc.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_s.a
+END GROUP
+START GROUP
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu\libgcc.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_s.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu\libgcc.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_s.a
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a
+END GROUP
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtend.o
+LOAD c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtn.o
+                0x00000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x00000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+                0x00000000                M_VECTOR_RAM_SIZE = DEFINED (__ram_vector_table__)?0x400:0x0
+
+.interrupts     0x00000000      0x400
+                0x00000000                __VECTOR_TABLE = .
+                0x00000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x400 ./startup/startup_MK64F12.o
+                0x00000000                __isr_vector
+                0x00000400                . = ALIGN (0x4)
+
+.flash_config   0x00000400       0x10
+                0x00000400                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x00000400       0x10 ./startup/startup_MK64F12.o
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410     0x20d8
+                0x00000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000410       0x54 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+ .text          0x00000464       0x74 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x00000464                _start
+                0x00000464                _mainCRTStartup
+ .text          0x000004d8      0x1e4 ./startup/startup_MK64F12.o
+                0x000004d8                Reset_Handler
+                0x0000051c                DebugMon_Handler
+                0x0000051c                PORTC_IRQHandler
+                0x0000051c                DMA0_DriverIRQHandler
+                0x0000051c                DMA12_DriverIRQHandler
+                0x0000051c                UART0_LON_DriverIRQHandler
+                0x0000051c                SPI1_DriverIRQHandler
+                0x0000051c                DMA_Error_DriverIRQHandler
+                0x0000051c                MemManage_Handler
+                0x0000051c                CMP0_IRQHandler
+                0x0000051c                WDOG_EWM_IRQHandler
+                0x0000051c                UART4_ERR_DriverIRQHandler
+                0x0000051c                DMA7_DriverIRQHandler
+                0x0000051c                I2C0_DriverIRQHandler
+                0x0000051c                ENET_Transmit_DriverIRQHandler
+                0x0000051c                DMA2_DriverIRQHandler
+                0x0000051c                UART1_ERR_DriverIRQHandler
+                0x0000051c                SDHC_DriverIRQHandler
+                0x0000051c                PIT0_IRQHandler
+                0x0000051c                BusFault_Handler
+                0x0000051c                CMP2_IRQHandler
+                0x0000051c                LLWU_IRQHandler
+                0x0000051c                I2S0_Tx_DriverIRQHandler
+                0x0000051c                DMA6_DriverIRQHandler
+                0x0000051c                LPTMR0_IRQHandler
+                0x0000051c                FTM2_IRQHandler
+                0x0000051c                PORTE_IRQHandler
+                0x0000051c                ENET_1588_Timer_DriverIRQHandler
+                0x0000051c                I2C2_DriverIRQHandler
+                0x0000051c                SWI_IRQHandler
+                0x0000051c                ADC0_IRQHandler
+                0x0000051c                UsageFault_Handler
+                0x0000051c                FTM3_IRQHandler
+                0x0000051c                CMT_IRQHandler
+                0x0000051c                CAN0_DriverIRQHandler
+                0x0000051c                MCM_IRQHandler
+                0x0000051c                DefaultISR
+                0x0000051c                DAC1_IRQHandler
+                0x0000051c                UART5_ERR_DriverIRQHandler
+                0x0000051c                PORTA_IRQHandler
+                0x0000051c                DMA11_DriverIRQHandler
+                0x0000051c                CMP1_IRQHandler
+                0x0000051c                Reserved71_IRQHandler
+                0x0000051c                PORTD_IRQHandler
+                0x0000051c                PORTB_IRQHandler
+                0x0000051c                DMA10_DriverIRQHandler
+                0x0000051c                FTM0_IRQHandler
+                0x0000051c                UART2_ERR_DriverIRQHandler
+                0x0000051c                SPI2_DriverIRQHandler
+                0x0000051c                ADC1_IRQHandler
+                0x0000051c                DMA5_DriverIRQHandler
+                0x0000051c                DMA4_DriverIRQHandler
+                0x0000051c                LVD_LVW_IRQHandler
+                0x0000051c                PIT2_IRQHandler
+                0x0000051c                PIT1_IRQHandler
+                0x0000051c                SPI0_DriverIRQHandler
+                0x0000051c                RTC_IRQHandler
+                0x0000051c                UART3_ERR_DriverIRQHandler
+                0x0000051c                PDB0_IRQHandler
+                0x0000051c                MCG_IRQHandler
+                0x0000051c                FTM1_IRQHandler
+                0x0000051c                DMA15_DriverIRQHandler
+                0x0000051c                ENET_Error_DriverIRQHandler
+                0x0000051c                DMA3_DriverIRQHandler
+                0x0000051c                PIT3_IRQHandler
+                0x0000051c                DMA13_DriverIRQHandler
+                0x0000051c                RTC_Seconds_IRQHandler
+                0x0000051c                DMA1_DriverIRQHandler
+                0x0000051c                FTFE_IRQHandler
+                0x0000051c                DMA9_DriverIRQHandler
+                0x0000051c                DMA8_DriverIRQHandler
+                0x0000051c                UART0_ERR_DriverIRQHandler
+                0x0000051c                DAC0_IRQHandler
+                0x0000051c                ENET_Receive_DriverIRQHandler
+                0x0000051c                I2C1_DriverIRQHandler
+                0x0000051c                Read_Collision_IRQHandler
+                0x0000051c                DMA14_DriverIRQHandler
+                0x0000051c                USB0_IRQHandler
+                0x0000051c                RNG_IRQHandler
+                0x0000051c                USBDCD_IRQHandler
+                0x0000051c                I2S0_Rx_DriverIRQHandler
+                0x00000520                NMI_Handler
+                0x00000524                HardFault_Handler
+                0x00000528                SVC_Handler
+                0x0000052c                PendSV_Handler
+                0x00000530                SysTick_Handler
+                0x00000534                DMA0_IRQHandler
+                0x00000538                DMA1_IRQHandler
+                0x0000053c                DMA2_IRQHandler
+                0x00000540                DMA3_IRQHandler
+                0x00000544                DMA4_IRQHandler
+                0x00000548                DMA5_IRQHandler
+                0x0000054c                DMA6_IRQHandler
+                0x00000550                DMA7_IRQHandler
+                0x00000554                DMA8_IRQHandler
+                0x00000558                DMA9_IRQHandler
+                0x0000055c                DMA10_IRQHandler
+                0x00000560                DMA11_IRQHandler
+                0x00000564                DMA12_IRQHandler
+                0x00000568                DMA13_IRQHandler
+                0x0000056c                DMA14_IRQHandler
+                0x00000570                DMA15_IRQHandler
+                0x00000574                DMA_Error_IRQHandler
+                0x00000578                I2C0_IRQHandler
+                0x0000057c                I2C1_IRQHandler
+                0x00000580                SPI0_IRQHandler
+                0x00000584                SPI1_IRQHandler
+                0x00000588                I2S0_Tx_IRQHandler
+                0x0000058c                I2S0_Rx_IRQHandler
+                0x00000590                UART0_LON_IRQHandler
+                0x00000594                UART0_RX_TX_IRQHandler
+                0x00000598                UART0_ERR_IRQHandler
+                0x0000059c                UART1_RX_TX_IRQHandler
+                0x000005a0                UART1_ERR_IRQHandler
+                0x000005a4                UART2_RX_TX_IRQHandler
+                0x000005a8                UART2_ERR_IRQHandler
+                0x000005ac                UART3_RX_TX_IRQHandler
+                0x000005b0                UART3_ERR_IRQHandler
+                0x000005b4                SPI2_IRQHandler
+                0x000005b8                UART4_RX_TX_IRQHandler
+                0x000005bc                UART4_ERR_IRQHandler
+                0x000005c0                UART5_RX_TX_IRQHandler
+                0x000005c4                UART5_ERR_IRQHandler
+                0x000005c8                I2C2_IRQHandler
+                0x000005cc                CAN0_ORed_Message_buffer_IRQHandler
+                0x000005d0                CAN0_Bus_Off_IRQHandler
+                0x000005d4                CAN0_Error_IRQHandler
+                0x000005d8                CAN0_Tx_Warning_IRQHandler
+                0x000005dc                CAN0_Rx_Warning_IRQHandler
+                0x000005e0                CAN0_Wake_Up_IRQHandler
+                0x000005e4                SDHC_IRQHandler
+                0x000005e8                ENET_1588_Timer_IRQHandler
+                0x000005ec                ENET_Transmit_IRQHandler
+                0x000005f0                ENET_Receive_IRQHandler
+                0x000005f4                ENET_Error_IRQHandler
+ *(.text*)
+ .text.BOARD_InitDebugConsole
+                0x000006bc        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                0x000006bc                BOARD_InitDebugConsole
+ .text.CLOCK_EnableClock.5884.4061
+                0x000006c8       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.CLOCK_DisableClock.5890.4058
+                0x000006fc       0x38 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.CLOCK_SetSimSafeDivs.5893.4056
+                0x00000734       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.CLOCK_CONFIG_EnableIrc48MOsc.5895.4054
+                0x00000754       0x24 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.CLOCK_CONFIG_SetFllExtRefDiv.5897.4051
+                0x00000778       0x38 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.BOARD_BootClockRUN
+                0x000007b0       0x40 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                0x000007b0                BOARD_BootClockRUN
+ .text.CLOCK_EnableClock.6068.4042
+                0x000007f0       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.PORT_SetPinMux.6074.4016
+                0x00000824       0x38 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .text.BOARD_InitPins
+                0x0000085c      0x3ac C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                0x0000085c                BOARD_InitPins
+ .text.UART0_DriverIRQHandler.4203
+                0x00000c08       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.UART0_RX_TX_DriverIRQHandler
+                0x00000c28        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+                0x00000c28                UART0_RX_TX_DriverIRQHandler
+ .text.UART1_DriverIRQHandler.4199
+                0x00000c34       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.UART1_RX_TX_DriverIRQHandler
+                0x00000c54        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+                0x00000c54                UART1_RX_TX_DriverIRQHandler
+ .text.UART2_DriverIRQHandler.4195
+                0x00000c60       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.UART2_RX_TX_DriverIRQHandler
+                0x00000c80        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+                0x00000c80                UART2_RX_TX_DriverIRQHandler
+ .text.UART3_DriverIRQHandler.4191
+                0x00000c8c       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.UART3_RX_TX_DriverIRQHandler
+                0x00000cac        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+                0x00000cac                UART3_RX_TX_DriverIRQHandler
+ .text.UART4_DriverIRQHandler.4187
+                0x00000cb8       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.UART4_RX_TX_DriverIRQHandler
+                0x00000cd8        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+                0x00000cd8                UART4_RX_TX_DriverIRQHandler
+ .text.UART5_DriverIRQHandler.4183
+                0x00000ce4       0x20 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .text.UART5_RX_TX_DriverIRQHandler
+                0x00000d04        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+                0x00000d04                UART5_RX_TX_DriverIRQHandler
+ .text.CLOCK_SetExternalRefClkConfig.4270
+                0x00000d10       0x90 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_EnablePll0.4256
+                0x00000da0       0x90 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_SetPbeMode.4184
+                0x00000e30       0xb0 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .text.CLOCK_BootToPeeMode
+                0x00000ee0       0x70 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+                0x00000ee0                CLOCK_BootToPeeMode
+ .text.__assert_func
+                0x00000f50       0x28 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+                0x00000f50                __assert_func
+ .text.DRIVE_InitPinOutput.4135
+                0x00000f78      0x448 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.DRIVE_SetPins.4132
+                0x000013c0      0x390 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.GPIO_WritePinOutput.4338.4127
+                0x00001750       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.GPIO_SetPinsOutput.4356.4123
+                0x00001784       0x1c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.GPIO_ClearPinsOutput.4360.4108
+                0x000017a0       0x1c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.setLed.4104
+                0x000017bc       0x58 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.Delay.4101
+                0x00001814       0x40 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.main     0x00001854      0x440 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+                0x00001854                main
+ .text.CLOCK_SetEr32kClock.4390.4087
+                0x00001c94       0x2c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_SetPllFllSelClock.4395.4084
+                0x00001cc0       0x38 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .text.CLOCK_SetSimConfig
+                0x00001cf8       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+                0x00001cf8                CLOCK_SetSimConfig
+ .text.DbgConsole_Printf
+                0x00001d2c       0x40 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+                0x00001d2c                DbgConsole_Printf
+ .text.DbgConsole_Putchar.4088
+                0x00001d6c       0x38 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.DbgConsole_PrintfPaddingCharacter.4087.4073
+                0x00001da4       0x40 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.DbgConsole_ConvertRadixNumToString.4095.4063
+                0x00001de4      0x114 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.DbgConsole_PrintfFormattedData.4102.4057
+                0x00001ef8      0x368 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .text.SystemInit
+                0x00002260       0x3c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+                0x00002260                SystemInit
+ .text.GPIO_WritePinOutput.4315
+                0x0000229c       0x34 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+                0x0000229c                GPIO_WritePinOutput.4315
+ .text.memcpy   0x000022d0       0x12 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memcpy-stub.o)
+                0x000022d0                memcpy
+ .text.strlen   0x000022e2       0x10 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-strlen.o)
+                0x000022e2                strlen
+ *fill*         0x000022f2        0x2 
+ .text.exit     0x000022f4       0x28 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-exit.o)
+                0x000022f4                exit
+ .text.__libc_init_array
+                0x0000231c       0x4c c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-init.o)
+                0x0000231c                __libc_init_array
+ .text.memset   0x00002368       0x10 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memset.o)
+                0x00002368                memset
+ .text._exit    0x00002378        0x4 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+                0x00002378                _exit
+ *(.rodata)
+ .rodata        0x0000237c       0xfc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ *(.rodata*)
+ .rodata.__func__.6721.4639
+                0x00002478       0x14 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                0x00002478                __func__.6721.4639
+ .rodata.__func__.6857.4641
+                0x0000248c       0x14 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                0x0000248c                __func__.6857.4641
+ .rodata.__func__.6921.4642
+                0x000024a0       0x14 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                0x000024a0                __func__.6921.4642
+ .rodata.mcgConfig_BOARD_BootClockRUN.4218
+                0x000024b4        0xc C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.simConfig_BOARD_BootClockRUN.4247
+                0x000024c0        0x8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x000024c8        0x2 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-impure.o)
+ *fill*         0x000024ca        0x2 
+ .rodata._global_impure_ptr
+                0x000024cc        0x4 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-impure.o)
+                0x000024cc                _global_impure_ptr
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x000024d0        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+ *(.init)
+ .init          0x000024d0        0x4 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crti.o
+                0x000024d0                _init
+ .init          0x000024d4        0x8 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtn.o
+ *(.fini)
+ .fini          0x000024dc        0x4 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crti.o
+                0x000024dc                _fini
+ .fini          0x000024e0        0x8 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtn.o
+                0x000024e8                . = ALIGN (0x4)
+
+.vfp11_veneer   0x000024e8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x000024e8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x000024e8        0x0
+ .iplt          0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x000024e8        0x8
+                0x000024e8                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x000024e8        0x8 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x000024f0                __exidx_end = .
+
+.rel.dyn        0x000024f0        0x0
+ .rel.iplt      0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+
+.ctors          0x000024f0        0x0
+                0x000024f0                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x000024f0                __CTOR_END__ = .
+
+.dtors          0x000024f0        0x0
+                0x000024f0                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x000024f0                __DTOR_END__ = .
+
+.preinit_array  0x000024f0        0x0
+                0x000024f0                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x000024f0                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x000024f0        0x4
+                0x000024f0                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x000024f0        0x4 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+                0x000024f4                PROVIDE (__init_array_end, .)
+
+.fini_array     0x000024f4        0x4
+                0x000024f4                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x000024f4        0x4 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+                0x000024f8                PROVIDE (__fini_array_end, .)
+                0x000024f8                __etext = .
+                0x000024f8                __DATA_ROM = .
+
+.interrupts_ram
+                0x1fff0000        0x0
+                0x1fff0000                . = ALIGN (0x4)
+                0x1fff0000                __VECTOR_RAM__ = .
+                0x1fff0000                __interrupts_ram_start__ = .
+ *(.m_interrupts_ram)
+                0x1fff0000                . = (. + M_VECTOR_RAM_SIZE)
+                0x1fff0000                . = ALIGN (0x4)
+                0x1fff0000                __interrupts_ram_end__ = .
+                0x00000000                __VECTOR_RAM = DEFINED (__ram_vector_table__)?__VECTOR_RAM__:ORIGIN (m_interrupts)
+                0x00000000                __RAM_VECTOR_TABLE_SIZE_BYTES = DEFINED (__ram_vector_table__)?(__interrupts_ram_end__ - __interrupts_ram_start__):0x0
+
+.data           0x1fff0000       0x68 load address 0x000024f8
+                0x1fff0000                . = ALIGN (0x4)
+                0x1fff0000                __DATA_RAM = .
+                0x1fff0000                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x1fff0000        0x4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                0x1fff0000                SystemCoreClock
+ .data.impure_data
+                0x1fff0004       0x60 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-impure.o)
+ *(.jcr*)
+ .jcr           0x1fff0064        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+ .jcr           0x1fff0064        0x4 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtend.o
+                0x1fff0068                . = ALIGN (0x4)
+                0x1fff0068                __data_end__ = .
+                0x00002560                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x00100000                text_end = (ORIGIN (m_text) + 0xffbf0)
+                0x00000001                ASSERT ((__DATA_END <= text_end), region m_text overflowed with text and data)
+                0x00000000                USB_RAM_GAP = DEFINED (__usb_ram_size__)?__usb_ram_size__:0x0
+
+.igot.plt       0x1fff0068        0x0 load address 0x00002560
+ .igot.plt      0x00000000        0x0 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+
+.bss            0x1fff0068      0x198 load address 0x00002560
+                0x1fff0068                . = ALIGN (0x4)
+                0x1fff0068                __START_BSS = .
+                0x1fff0068                __bss_start__ = .
+ *(.bss)
+ .bss           0x1fff0068       0x1c c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+ *(.bss*)
+ .bss.s_debugConsole.4148
+                0x1fff0084       0x10 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                0x1fff0084                s_debugConsole.4148
+ .bss.s_uartHandle.5426
+                0x1fff0094       0x18 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                0x1fff0094                s_uartHandle.5426
+ .bss.s_uartIsr.5427
+                0x1fff00ac        0x4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                0x1fff00ac                s_uartIsr.5427
+                0x1fff0200                . = ALIGN (0x200)
+ *fill*         0x1fff00b0      0x150 
+                0x1fff0200                USB_RAM_START = .
+                0x1fff0200                . = (. + USB_RAM_GAP)
+ *(COMMON)
+                0x1fff0200                . = ALIGN (0x4)
+                0x1fff0200                __bss_end__ = .
+                0x1fff0200                __END_BSS = .
+
+.heap           0x20000000      0x400
+                0x20000000                . = ALIGN (0x8)
+                0x20000000                __end__ = .
+                0x20000000                PROVIDE (end, .)
+                0x20000000                __HeapBase = .
+                0x20000400                . = (. + HEAP_SIZE)
+ *fill*         0x20000000      0x400 
+                0x20000400                __HeapLimit = .
+                0x20000400                __heap_limit = .
+
+.stack          0x20000400      0x400
+                0x20000400                . = ALIGN (0x8)
+                0x20000800                . = (. + STACK_SIZE)
+ *fill*         0x20000400      0x400 
+
+m_usb_bdt       0x1fff0200        0x0
+ *(m_usb_bdt)
+                0x1fff0200                USB_RAM_BDT_END = .
+
+m_usb_global
+ *(m_usb_global)
+                0x20030000                __StackTop = (ORIGIN (m_data_2) + 0x30000)
+                0x2002fc00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x20030000                PROVIDE (__stack, __StackTop)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x22 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x00000022       0x34 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x00000076       0x37 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .ARM.attributes
+                0x000000ad       0x37 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .ARM.attributes
+                0x000000e4       0x37 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .ARM.attributes
+                0x0000011b       0x37 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .ARM.attributes
+                0x00000152       0x37 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .ARM.attributes
+                0x00000189       0x34 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000001bd       0x34 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000001f1       0x1f ./startup/startup_MK64F12.o
+ .ARM.attributes
+                0x00000210       0x34 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000244       0x34 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000278       0x34 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-init.o)
+ .ARM.attributes
+                0x000002ac       0x34 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000002e0       0x34 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000314       0x34 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x00000348       0x22 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/fpu/crtn.o
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data_2 overflowed with stack and heap)
+OUTPUT(LED_Drive.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x6bef
+ .debug_info    0x00000000     0x2788 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .debug_info    0x00002788     0x1430 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .debug_info    0x00003bb8     0x1993 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .debug_info    0x0000554b      0xae4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .debug_info    0x0000602f      0xb32 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .debug_info    0x00006b61       0x8e ./startup/startup_MK64F12.o
+
+.debug_abbrev   0x00000000      0xff3
+ .debug_abbrev  0x00000000      0x481 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .debug_abbrev  0x00000481      0x249 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .debug_abbrev  0x000006ca      0x3b5 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .debug_abbrev  0x00000a7f      0x2d4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .debug_abbrev  0x00000d53      0x28c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .debug_abbrev  0x00000fdf       0x14 ./startup/startup_MK64F12.o
+
+.debug_aranges  0x00000000      0x5a0
+ .debug_aranges
+                0x00000000       0xe8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .debug_aranges
+                0x000000e8      0x148 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .debug_aranges
+                0x00000230      0x190 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .debug_aranges
+                0x000003c0      0x118 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .debug_aranges
+                0x000004d8       0xa8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .debug_aranges
+                0x00000580       0x20 ./startup/startup_MK64F12.o
+
+.debug_ranges   0x00000000      0x530
+ .debug_ranges  0x00000000       0xd8 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .debug_ranges  0x000000d8      0x138 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .debug_ranges  0x00000210      0x180 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .debug_ranges  0x00000390      0x108 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .debug_ranges  0x00000498       0x98 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+
+.debug_line     0x00000000     0x1d4d
+ .debug_line    0x00000000      0x534 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .debug_line    0x00000534      0x649 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .debug_line    0x00000b7d      0x693 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .debug_line    0x00001210      0x507 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .debug_line    0x00001717      0x4c4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .debug_line    0x00001bdb      0x172 ./startup/startup_MK64F12.o
+
+.debug_str      0x00000000     0x4271
+ .debug_str     0x00000000     0x2887 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                               0x29a6 (size before relaxing)
+ .debug_str     0x00002887      0xc07 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+                               0x14f7 (size before relaxing)
+ .debug_str     0x0000348e      0x5c7 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+                               0x1663 (size before relaxing)
+ .debug_str     0x00003a55      0x535 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+                                0xb44 (size before relaxing)
+ .debug_str     0x00003f8a      0x2e7 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+                                0x738 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+
+.debug_frame    0x00000000     0x13e8
+ .debug_frame   0x00000000      0x308 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans0.ltrans.o
+ .debug_frame   0x00000308      0x490 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans1.ltrans.o
+ .debug_frame   0x00000798      0x584 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans3.ltrans.o
+ .debug_frame   0x00000d1c      0x3b4 C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans4.ltrans.o
+ .debug_frame   0x000010d0      0x23c C:\Users\Jon\AppData\Local\Temp\ccDoBeoc.ltrans5.ltrans.o
+ .debug_frame   0x0000130c       0x28 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00001334       0x20 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-strlen.o)
+ .debug_frame   0x00001354       0x28 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-exit.o)
+ .debug_frame   0x0000137c       0x2c c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-init.o)
+ .debug_frame   0x000013a8       0x20 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg_s.a(lib_a-memset.o)
+ .debug_frame   0x000013c8       0x20 c:/freescale/kds_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)

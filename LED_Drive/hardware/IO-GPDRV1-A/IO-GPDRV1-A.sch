@@ -1,0 +1,727 @@
+EESchema Schematic File Version 2
+LIBS:atomo
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:IO-GPDRV1-A-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "IO-GPDRV1-A"
+Date "2017-01-16"
+Rev "A"
+Comp "Hummingbird Innovations Limited"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L OCX40 P1
+U 1 1 5814C976
+P 9550 1450
+F 0 "P1" H 9700 1550 50  0000 C CNN
+F 1 "OCX40" H 9850 -400 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Angled_2x20" H 9700 1650 50  0000 C CNN
+F 3 "" H 9100 1450 50  0001 C CNN
+F 4 "Sullins Connector Solutions" H 0   0   50  0001 C CNN "MFR"
+F 5 "PRPC020DBAN-M71RC" H 0   0   50  0001 C CNN "MPN"
+F 6 "Digikey" H 0   0   50  0001 C CNN "SPR"
+F 7 "S2111EC-20-ND" H 0   0   50  0001 C CNN "SPN"
+F 8 "" H 0   0   50  0001 C CNN "SPURL"
+	1    9550 1450
+	1    0    0    -1  
+$EndComp
+Text Label 8400 4550 0    60   ~ 0
+GND
+Text Label 8400 4850 0    60   ~ 0
+PVIN
+Text Label 8400 5050 0    60   ~ 0
+PVIN
+Text Label 8400 5250 0    60   ~ 0
+PVIN
+Text Label 8400 4650 0    60   ~ 0
+PVIN
+Text Label 8400 4350 0    60   ~ 0
+GND
+Text Label 8400 4250 0    60   ~ 0
+GND
+Text Label 8400 3950 0    60   ~ 0
+GND
+Text Label 8400 3850 0    60   ~ 0
+GND
+Text Label 8400 3150 0    60   ~ 0
+GND
+Text Label 8400 3050 0    60   ~ 0
+GND
+Text Label 8400 2350 0    60   ~ 0
+GND
+Text Label 8400 2250 0    60   ~ 0
+GND
+Text Label 8400 2650 0    60   ~ 0
+GND
+Text Label 8400 1750 0    60   ~ 0
+GND
+Text Label 8400 1650 0    60   ~ 0
+GND
+Text Label 8400 1550 0    60   ~ 0
+P3V3
+Text Label 8400 2550 0    60   ~ 0
+I2C_SCL
+Text Label 8400 2450 0    60   ~ 0
+I2C_SDA
+Text Label 8400 4750 0    60   ~ 0
+GND
+Text Label 8400 4950 0    60   ~ 0
+GND
+Text Label 8400 5150 0    60   ~ 0
+GND
+Text Label 8400 5350 0    60   ~ 0
+GND
+Text Notes 8400 1100 0    118  ~ 24
+OCX40 Module Header
+Wire Wire Line
+	9200 4550 8400 4550
+Wire Wire Line
+	9200 4850 8400 4850
+Wire Wire Line
+	9200 5050 8400 5050
+Wire Wire Line
+	9200 5250 8400 5250
+Wire Wire Line
+	9200 4750 8400 4750
+Wire Wire Line
+	9200 4950 8400 4950
+Wire Wire Line
+	9200 5150 8400 5150
+Wire Wire Line
+	9200 5350 8400 5350
+Wire Wire Line
+	9200 4650 8400 4650
+Wire Wire Line
+	9200 4350 8400 4350
+Wire Wire Line
+	9200 4250 8400 4250
+Wire Wire Line
+	9200 3950 8400 3950
+Wire Wire Line
+	9200 3850 8400 3850
+Wire Wire Line
+	9200 3150 8400 3150
+Wire Wire Line
+	9200 3050 8400 3050
+Wire Wire Line
+	9200 2350 8400 2350
+Wire Wire Line
+	9200 2250 8400 2250
+Wire Wire Line
+	9200 2650 8400 2650
+Wire Wire Line
+	9200 1750 8400 1750
+Wire Wire Line
+	9200 1650 8400 1650
+Wire Wire Line
+	9200 1550 8400 1550
+Wire Wire Line
+	9200 3350 8400 3350
+Wire Wire Line
+	9200 3250 8400 3250
+Wire Wire Line
+	9200 3550 8400 3550
+Wire Wire Line
+	9200 3450 8400 3450
+Wire Wire Line
+	9200 3750 8400 3750
+Wire Wire Line
+	9200 3650 8400 3650
+Wire Wire Line
+	9200 4150 8400 4150
+Wire Wire Line
+	9200 4050 8400 4050
+Wire Wire Line
+	9200 2550 8400 2550
+Wire Wire Line
+	9200 2450 8400 2450
+NoConn ~ 9200 1450
+NoConn ~ 9200 2950
+NoConn ~ 9200 4450
+NoConn ~ 9200 2750
+Text Notes 1600 2100 0    60   ~ 0
+SENSE0
+Text Notes 1600 2750 0    60   ~ 0
+DRIVE0
+Wire Wire Line
+	2650 2400 1850 2400
+Wire Wire Line
+	2650 2500 1850 2500
+Wire Wire Line
+	1850 2600 2650 2600
+Wire Wire Line
+	2650 2300 1850 2300
+Wire Wire Line
+	1850 1450 2650 1450
+Wire Wire Line
+	1850 1550 2650 1550
+Wire Wire Line
+	1850 1750 2650 1750
+Wire Wire Line
+	1850 1650 2650 1650
+Wire Wire Line
+	1850 1950 2650 1950
+Wire Wire Line
+	1850 1850 2650 1850
+Text Notes 900  1150 0    118  ~ 24
+Connectors
+Text Label 2650 2600 2    60   ~ 0
+DRIVE0_A
+Text Label 2650 2300 2    60   ~ 0
+DRIVE_VIN
+Text Label 2650 2500 2    60   ~ 0
+DRIVE0_B
+Text Label 2650 2400 2    60   ~ 0
+DRIVE0_C
+Text Label 2650 1450 2    60   ~ 0
+ADC1
+Text Label 2650 1550 2    60   ~ 0
+ADC0
+Text Label 2650 1750 2    60   ~ 0
+GND
+Text Label 2650 1650 2    60   ~ 0
+P3V3
+Text Label 2650 1950 2    60   ~ 0
+I2C_SDA
+Text Label 2650 1850 2    60   ~ 0
+I2C_SCL
+$Comp
+L CONN_01X04 J1
+U 1 1 5814C964
+P 1650 2450
+F 0 "J1" H 1650 2700 50  0000 C CNN
+F 1 "PH1X4RAFL" V 1750 2450 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Angled_1x04" H 1650 2450 50  0001 C CNN
+F 3 "" H 1650 2450 50  0001 C CNN
+F 4 "Molex, LLC" H -850 -150 50  0001 C CNN "MFR"
+F 5 "1718570004" H -850 -150 50  0001 C CNN "MPN"
+F 6 "Digikey" H -850 -150 50  0001 C CNN "SPR"
+F 7 "WM10159-ND" H -850 -150 50  0001 C CNN "SPN"
+F 8 "" H -850 -150 50  0001 C CNN "SPURL"
+	1    1650 2450
+	-1   0    0    -1  
+$EndComp
+Text Notes 1600 3400 0    60   ~ 0
+DRIVE1
+Wire Wire Line
+	2650 3050 1850 3050
+Wire Wire Line
+	2650 3150 1850 3150
+Wire Wire Line
+	1850 3250 2650 3250
+Wire Wire Line
+	2650 2950 1850 2950
+Text Label 2650 3250 2    60   ~ 0
+DRIVE1_A
+Text Label 2650 2950 2    60   ~ 0
+DRIVE_VIN
+Text Label 2650 3150 2    60   ~ 0
+DRIVE1_B
+Text Label 2650 3050 2    60   ~ 0
+DRIVE1_C
+$Comp
+L CONN_01X04 J2
+U 1 1 5895A8D8
+P 1650 3100
+F 0 "J2" H 1650 3350 50  0000 C CNN
+F 1 "PH1X4RAFL" V 1750 3100 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Angled_1x04" H 1650 3100 50  0001 C CNN
+F 3 "" H 1650 3100 50  0001 C CNN
+F 4 "Molex, LLC" H -850 500 50  0001 C CNN "MFR"
+F 5 "1718570004" H -850 500 50  0001 C CNN "MPN"
+F 6 "Digikey" H -850 500 50  0001 C CNN "SPR"
+F 7 "WM10159-ND" H -850 500 50  0001 C CNN "SPN"
+F 8 "" H -850 500 50  0001 C CNN "SPURL"
+	1    1650 3100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L CONN_01X06 J3
+U 1 1 5897F949
+P 1650 1700
+F 0 "J3" H 1650 2050 50  0000 C CNN
+F 1 "PH1X6RAFL" V 1750 1700 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Angled_1x06" H 1650 1700 50  0001 C CNN
+F 3 "" H 1650 1700 50  0000 C CNN
+	1    1650 1700
+	-1   0    0    -1  
+$EndComp
+Text Label 8400 3250 0    60   ~ 0
+DRIVE0_A_SIG
+Text Label 4600 4950 0    60   ~ 0
+DRIVE_VIN
+Text Label 8400 3450 0    60   ~ 0
+DRIVE0_B_SIG
+Text Label 8400 3650 0    60   ~ 0
+DRIVE0_C_SIG
+Text Label 8400 4150 0    60   ~ 0
+ADC1
+Text Label 8400 4050 0    60   ~ 0
+ADC0
+Text Label 8400 3350 0    60   ~ 0
+DRIVE1_A_SIG
+Text Label 8400 3550 0    60   ~ 0
+DRIVE1_B_SIG
+Text Label 8400 3750 0    60   ~ 0
+DRIVE1_C_SIG
+Text Label 5700 4950 2    60   ~ 0
+PVIN
+NoConn ~ 9200 2850
+NoConn ~ 9200 2150
+NoConn ~ 9200 2050
+NoConn ~ 9200 1950
+NoConn ~ 9200 1850
+$Comp
+L CP1_Small C1
+U 1 1 5897FC4D
+P 5150 5100
+F 0 "C1" H 5160 5170 50  0000 L CNN
+F 1 "100UF" H 5160 5020 50  0000 L CNN
+F 2 "proj_footprints:Cap_Panasonic_HA-G" H 5150 5100 50  0001 C CNN
+F 3 "" H 5150 5100 50  0000 C CNN
+	1    5150 5100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4600 4950 5700 4950
+Wire Wire Line
+	5150 5200 5150 5300
+$Comp
+L GND #PWR01
+U 1 1 5897FD76
+P 5150 5300
+F 0 "#PWR01" H 5150 5050 50  0001 C CNN
+F 1 "GND" H 5150 5150 50  0000 C CNN
+F 2 "" H 5150 5300 50  0000 C CNN
+F 3 "" H 5150 5300 50  0000 C CNN
+	1    5150 5300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5150 5000 5150 4950
+Connection ~ 5150 4950
+$Comp
+L MOSFET-N_3-PIN Q3
+U 1 1 58980512
+P 5250 4000
+F 0 "Q3" H 5450 4075 50  0000 L CNN
+F 1 "PMV40UN2" H 5450 4000 50  0000 L CNN
+F 2 "proj_footprints:SOT-23" H 5450 3925 50  0001 L CIN
+F 3 "" H 5250 4000 50  0000 L CNN
+	1    5250 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R6
+U 1 1 58980564
+P 5150 4250
+F 0 "R6" V 5230 4250 50  0000 C CNN
+F 1 "10K" V 5150 4250 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 5080 4250 50  0001 C CNN
+F 3 "" H 5150 4250 50  0000 C CNN
+	1    5150 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L R R3
+U 1 1 58980589
+P 5000 3900
+F 0 "R3" V 5080 3900 50  0000 C CNN
+F 1 "22R" V 5000 3900 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 4930 3900 50  0001 C CNN
+F 3 "" H 5000 3900 50  0000 C CNN
+	1    5000 3900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5000 3750 4350 3750
+Wire Wire Line
+	5350 4200 5350 4350
+Connection ~ 5350 4250
+Wire Wire Line
+	5350 3800 5350 3600
+Wire Wire Line
+	5350 3600 4350 3600
+Text Label 4350 3600 0    60   ~ 0
+DRIVE0_C
+Text Label 4350 3750 0    60   ~ 0
+DRIVE0_C_SIG
+$Comp
+L GND #PWR02
+U 1 1 589808AB
+P 5350 4350
+F 0 "#PWR02" H 5350 4100 50  0001 C CNN
+F 1 "GND" H 5350 4200 50  0000 C CNN
+F 2 "" H 5350 4350 50  0000 C CNN
+F 3 "" H 5350 4350 50  0000 C CNN
+	1    5350 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR03
+U 1 1 589808CE
+P 8400 5350
+F 0 "#PWR03" H 8400 5100 50  0001 C CNN
+F 1 "GND" H 8400 5200 50  0000 C CNN
+F 2 "" H 8400 5350 50  0000 C CNN
+F 3 "" H 8400 5350 50  0000 C CNN
+	1    8400 5350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 4050 5000 4050
+Wire Wire Line
+	5000 4050 5000 4250
+Wire Wire Line
+	5300 4250 5350 4250
+$Comp
+L MOSFET-N_3-PIN Q2
+U 1 1 58980BE2
+P 5250 2950
+F 0 "Q2" H 5450 3025 50  0000 L CNN
+F 1 "PMV40UN2" H 5450 2950 50  0000 L CNN
+F 2 "proj_footprints:SOT-23" H 5450 2875 50  0001 L CIN
+F 3 "" H 5250 2950 50  0000 L CNN
+	1    5250 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R5
+U 1 1 58980BE8
+P 5150 3200
+F 0 "R5" V 5230 3200 50  0000 C CNN
+F 1 "10K" V 5150 3200 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 5080 3200 50  0001 C CNN
+F 3 "" H 5150 3200 50  0000 C CNN
+	1    5150 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L R R2
+U 1 1 58980BEE
+P 5000 2850
+F 0 "R2" V 5080 2850 50  0000 C CNN
+F 1 "22R" V 5000 2850 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 4930 2850 50  0001 C CNN
+F 3 "" H 5000 2850 50  0000 C CNN
+	1    5000 2850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5000 2700 4350 2700
+Wire Wire Line
+	5350 3150 5350 3300
+Connection ~ 5350 3200
+Wire Wire Line
+	5350 2750 5350 2550
+Wire Wire Line
+	5350 2550 4350 2550
+Text Label 4350 2550 0    60   ~ 0
+DRIVE0_B
+Text Label 4350 2700 0    60   ~ 0
+DRIVE0_B_SIG
+$Comp
+L GND #PWR04
+U 1 1 58980BFC
+P 5350 3300
+F 0 "#PWR04" H 5350 3050 50  0001 C CNN
+F 1 "GND" H 5350 3150 50  0000 C CNN
+F 2 "" H 5350 3300 50  0000 C CNN
+F 3 "" H 5350 3300 50  0000 C CNN
+	1    5350 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 3000 5000 3000
+Wire Wire Line
+	5000 3000 5000 3200
+Wire Wire Line
+	5300 3200 5350 3200
+$Comp
+L MOSFET-N_3-PIN Q1
+U 1 1 58980D19
+P 5250 1850
+F 0 "Q1" H 5450 1925 50  0000 L CNN
+F 1 "PMV40UN2" H 5450 1850 50  0000 L CNN
+F 2 "proj_footprints:SOT-23" H 5450 1775 50  0001 L CIN
+F 3 "" H 5250 1850 50  0000 L CNN
+	1    5250 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R4
+U 1 1 58980D1F
+P 5150 2100
+F 0 "R4" V 5230 2100 50  0000 C CNN
+F 1 "10K" V 5150 2100 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 5080 2100 50  0001 C CNN
+F 3 "" H 5150 2100 50  0000 C CNN
+	1    5150 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L R R1
+U 1 1 58980D25
+P 5000 1750
+F 0 "R1" V 5080 1750 50  0000 C CNN
+F 1 "22R" V 5000 1750 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 4930 1750 50  0001 C CNN
+F 3 "" H 5000 1750 50  0000 C CNN
+	1    5000 1750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5000 1600 4350 1600
+Wire Wire Line
+	5350 2050 5350 2200
+Connection ~ 5350 2100
+Wire Wire Line
+	5350 1650 5350 1450
+Wire Wire Line
+	5350 1450 4350 1450
+Text Label 4350 1450 0    60   ~ 0
+DRIVE0_A
+Text Label 4350 1600 0    60   ~ 0
+DRIVE0_A_SIG
+$Comp
+L GND #PWR05
+U 1 1 58980D33
+P 5350 2200
+F 0 "#PWR05" H 5350 1950 50  0001 C CNN
+F 1 "GND" H 5350 2050 50  0000 C CNN
+F 2 "" H 5350 2200 50  0000 C CNN
+F 3 "" H 5350 2200 50  0000 C CNN
+	1    5350 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 1900 5000 1900
+Wire Wire Line
+	5000 1900 5000 2100
+Wire Wire Line
+	5300 2100 5350 2100
+$Comp
+L MOSFET-N_3-PIN Q6
+U 1 1 589810D9
+P 6900 4000
+F 0 "Q6" H 7100 4075 50  0000 L CNN
+F 1 "PMV40UN2" H 7100 4000 50  0000 L CNN
+F 2 "proj_footprints:SOT-23" H 7100 3925 50  0001 L CIN
+F 3 "" H 6900 4000 50  0000 L CNN
+	1    6900 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R12
+U 1 1 589810DF
+P 6800 4250
+F 0 "R12" V 6880 4250 50  0000 C CNN
+F 1 "10K" V 6800 4250 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 6730 4250 50  0001 C CNN
+F 3 "" H 6800 4250 50  0000 C CNN
+	1    6800 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L R R9
+U 1 1 589810E5
+P 6650 3900
+F 0 "R9" V 6730 3900 50  0000 C CNN
+F 1 "22R" V 6650 3900 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 6580 3900 50  0001 C CNN
+F 3 "" H 6650 3900 50  0000 C CNN
+	1    6650 3900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6650 3750 6000 3750
+Wire Wire Line
+	7000 4200 7000 4350
+Connection ~ 7000 4250
+Wire Wire Line
+	7000 3800 7000 3600
+Wire Wire Line
+	7000 3600 6000 3600
+Text Label 6000 3600 0    60   ~ 0
+DRIVE1_C
+Text Label 6000 3750 0    60   ~ 0
+DRIVE1_C_SIG
+$Comp
+L GND #PWR06
+U 1 1 589810F3
+P 7000 4350
+F 0 "#PWR06" H 7000 4100 50  0001 C CNN
+F 1 "GND" H 7000 4200 50  0000 C CNN
+F 2 "" H 7000 4350 50  0000 C CNN
+F 3 "" H 7000 4350 50  0000 C CNN
+	1    7000 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6700 4050 6650 4050
+Wire Wire Line
+	6650 4050 6650 4250
+Wire Wire Line
+	6950 4250 7000 4250
+$Comp
+L MOSFET-N_3-PIN Q5
+U 1 1 589810FC
+P 6900 2950
+F 0 "Q5" H 7100 3025 50  0000 L CNN
+F 1 "PMV40UN2" H 7100 2950 50  0000 L CNN
+F 2 "proj_footprints:SOT-23" H 7100 2875 50  0001 L CIN
+F 3 "" H 6900 2950 50  0000 L CNN
+	1    6900 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R11
+U 1 1 58981102
+P 6800 3200
+F 0 "R11" V 6880 3200 50  0000 C CNN
+F 1 "10K" V 6800 3200 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 6730 3200 50  0001 C CNN
+F 3 "" H 6800 3200 50  0000 C CNN
+	1    6800 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L R R8
+U 1 1 58981108
+P 6650 2850
+F 0 "R8" V 6730 2850 50  0000 C CNN
+F 1 "22R" V 6650 2850 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 6580 2850 50  0001 C CNN
+F 3 "" H 6650 2850 50  0000 C CNN
+	1    6650 2850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6650 2700 6000 2700
+Wire Wire Line
+	7000 3150 7000 3300
+Connection ~ 7000 3200
+Wire Wire Line
+	7000 2750 7000 2550
+Wire Wire Line
+	7000 2550 6000 2550
+Text Label 6000 2550 0    60   ~ 0
+DRIVE1_B
+Text Label 6000 2700 0    60   ~ 0
+DRIVE1_B_SIG
+$Comp
+L GND #PWR07
+U 1 1 58981116
+P 7000 3300
+F 0 "#PWR07" H 7000 3050 50  0001 C CNN
+F 1 "GND" H 7000 3150 50  0000 C CNN
+F 2 "" H 7000 3300 50  0000 C CNN
+F 3 "" H 7000 3300 50  0000 C CNN
+	1    7000 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6700 3000 6650 3000
+Wire Wire Line
+	6650 3000 6650 3200
+Wire Wire Line
+	6950 3200 7000 3200
+$Comp
+L MOSFET-N_3-PIN Q4
+U 1 1 5898111F
+P 6900 1850
+F 0 "Q4" H 7100 1925 50  0000 L CNN
+F 1 "PMV40UN2" H 7100 1850 50  0000 L CNN
+F 2 "proj_footprints:SOT-23" H 7100 1775 50  0001 L CIN
+F 3 "" H 6900 1850 50  0000 L CNN
+	1    6900 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R10
+U 1 1 58981125
+P 6800 2100
+F 0 "R10" V 6880 2100 50  0000 C CNN
+F 1 "10K" V 6800 2100 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 6730 2100 50  0001 C CNN
+F 3 "" H 6800 2100 50  0000 C CNN
+	1    6800 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L R R7
+U 1 1 5898112B
+P 6650 1750
+F 0 "R7" V 6730 1750 50  0000 C CNN
+F 1 "22R" V 6650 1750 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 6580 1750 50  0001 C CNN
+F 3 "" H 6650 1750 50  0000 C CNN
+	1    6650 1750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6650 1600 6000 1600
+Wire Wire Line
+	7000 2050 7000 2200
+Connection ~ 7000 2100
+Wire Wire Line
+	7000 1650 7000 1450
+Wire Wire Line
+	7000 1450 6000 1450
+Text Label 6000 1450 0    60   ~ 0
+DRIVE1_A
+Text Label 6000 1600 0    60   ~ 0
+DRIVE1_A_SIG
+$Comp
+L GND #PWR08
+U 1 1 58981139
+P 7000 2200
+F 0 "#PWR08" H 7000 1950 50  0001 C CNN
+F 1 "GND" H 7000 2050 50  0000 C CNN
+F 2 "" H 7000 2200 50  0000 C CNN
+F 3 "" H 7000 2200 50  0000 C CNN
+	1    7000 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6700 1900 6650 1900
+Wire Wire Line
+	6650 1900 6650 2100
+Wire Wire Line
+	6950 2100 7000 2100
+$EndSCHEMATC
