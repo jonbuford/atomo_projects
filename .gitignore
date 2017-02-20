@@ -46,3 +46,12 @@ _autosave-*
 
 # Autorouter files (exported from Pcbnew)
 .dsn
+
+# Eclipse
+/.project
+/.settings
+/.buildpath
+/.metadata
+
+# Windows
+Thumbs.d
