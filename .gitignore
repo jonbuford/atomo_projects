@@ -48,10 +48,10 @@ _autosave-*
 .dsn
 
 # Eclipse
-/.project
-/.settings
-/.buildpath
-/.metadata
+.project/
+.settings/
+.buildpath/
+.metadata/
 
 # Windows
 Thumbs.d
