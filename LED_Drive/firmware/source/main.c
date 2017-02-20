@@ -42,7 +42,7 @@
 /*!
  * @brief Application entry point.
  */
-void setLed(char ledCode) //This is just for toggling the board LEDs.
+void setLed(char ledCode)
 {
 	switch(ledCode)
 	{
@@ -138,7 +138,6 @@ int main(void) {
 		memcpy(&led_matrix, led_matrix_prev, 48 * sizeof(int)); //Swap the all off matrix into the active matrix.
 	}
 
-	//Setup for the rotating display output.
 	led_matrix[2] = 1;
 	led_matrix[12] = 1;
 	led_matrix[13] = 1;
@@ -172,7 +171,7 @@ int main(void) {
 		if(0==curr){
 			curr = 3;
 		}
-		memcpy(&led_matrix_prev, led_matrix, 48 * sizeof(int)); //Copy the current array into the last to fade between them.
+		memcpy(&led_matrix_prev, led_matrix, 48 * sizeof(int));
 		for(i = 0; i <48; i = i+12){	//This currently just creates a progression of RGB divided up into the four columns of the display.
 			if(1==led_matrix_prev[2+i]){
 				if(0==led_matrix_prev[1+i]){
