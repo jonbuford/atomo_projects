@@ -56,3 +56,4 @@ _autosave-*
 # Windows
 Thumbs.d
 *.project
+*.cproject
